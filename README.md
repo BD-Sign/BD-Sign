@@ -16,7 +16,7 @@
   <tr>
     <td>Test-Tabelle</td>
     <td><span style="color:font-weight:bold;">1-2</span></td>
-    <td><a href="#" target="_blank" title="noch kein Link vorhanden">1-3</a>a></td>
+    <td><a href="#" target="_blank" title="noch kein Link vorhanden">1-3</a></td>
   </tr>
   <tr>
     <td>2-1</td>
