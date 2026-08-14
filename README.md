@@ -25,9 +25,10 @@
   </tr>
 </table>
 <p align="left">
-  <img src="" alt="noch kein Icon vorhanden" wdth="" height="" style="margin-right:8px;" />
-  <img src="" alt="noch kein Icon vorhanden" wdth="" height="" style="margin-right:8px;" />
-  <img src="" alt="noch kein Icon vorhanden" wdth="" height="" style="margin-right:8px;" />
+  <img src="./assets/icons/account.svg" height="32" alt="Text Icon 1" style="margin-right:8px;" />
+  <img src="./assets/icons/home.png" height="32" alt="Text Icon 2" style="margin-right:8px;" />
+  <img src="./assets/icons/magazine-line-icon.jpg" height="32" alt="Text Icon 3" style="margin-right:8px;" />
+  <img src="./assets/icons/phone-line.svg" height="32" alt="Text Icon 4" style="margin-right:8px;" />
   <img src="" alt="noch kein Icon vorhanden" wdth="" height="" />
 </p>
 
